@@ -9,7 +9,7 @@
   <img align="center" alt="Amorim-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Amorim-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Amorim-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  /*<img align="right" alt="Amorim-logo" src="https://media.discordapp.net/attachments/825593338798800947/872691060579631175/ezgif.com-gif-maker.gif"> */
+<!--- <img align="right" alt="Amorim-logo" src="https://media.discordapp.net/attachments/825593338798800947/872691060579631175/ezgif.com-gif-maker.gif"> -->
 </div>
   
   ##
