@@ -6,7 +6,7 @@
 <p> - 👨‍💻 Estágiario na Meta3 Services & Technologies. </p>
 <p> - 👨‍🎓 Estudante de Engenharia da computação, atualmente estou cursando o 4° semestre. </p>
 <p> - 🎯 Interesses: React, Javascript, Typescript, C#, API , HTML, CSS. </p>
-<p> - 🦊 Atualmente descobrindo minha paixão por front-end adoro programar, ouvir música, assistir animações e Jogar. </p>
+<p> - 🦊 Atualmente descobrindo minha paixão por front-end, adoro programar, ouvir música, assistir animações e Jogar. </p>
 <p> - 🎮 Gosta de jogar? É só chamar, vamos jogar juntos! </p>
   
 </div>
