@@ -44,7 +44,7 @@
 
  ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/RecNove/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/AmorimMG/count.svg" />
  </p>
 
 </p>
@@ -53,7 +53,7 @@
  
  ## Meus Commits :partying_face:
                                   
-![Snake animation](https://github.com/recnove/recnove/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AmorimMG/AmorimMG/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
@@ -62,7 +62,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RecNove&layout=compact&langs_count=7&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmorimMG&layout=compact&langs_count=7&theme=dracula"
     />
   </a>
  </div>
