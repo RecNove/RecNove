@@ -2,7 +2,7 @@
 
 ### Sobre mim
 <div style="display: inline_block"  >
-<img align="right" width="250" height="250" style="border-radius:30px;" src="https://avatars.githubusercontent.com/u/60048274?v=4" />
+<img align="right" style="border-radius:30px;width: 250px; height:250px;" src="https://avatars.githubusercontent.com/u/60048274?v=4" />
 <p> - 👨‍💻 Estágiario na Meta3 Services & Technologies. </p>
 <p> - 👨‍🎓 Estudante de Engenharia da computação, atualmente estou cursando o 5° semestre. </p>
 <p> - 🎯 Interesses: React, Javascript, Typescript, C#, HTML, CSS, SQL. </p>
