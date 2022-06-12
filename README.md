@@ -1,4 +1,4 @@
-## Olá, eu sou o Amorim! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Olá, eu sou o Amorim! 🚀</h2>
 
 ### Sobre mim
 <div style="display: inline_block"  >
