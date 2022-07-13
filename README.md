@@ -1,4 +1,4 @@
-## Olá, eu sou o Amorim! 🚀</h2>
+## Olá, eu me chamo Gabriel Amorim! 🚀</h2>
 
 ### Sobre mim
 <div style="display: inline_block"  >
