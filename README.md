@@ -1,4 +1,4 @@
-## Olá, eu me chamo Gabriel Amorim! 🚀</h2>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8100F7&lines=Ol%C3%A1%2C+eu+me+chamo+Gabriel+Amorim!+)](https://git.io/typing-svg)</h2>
 
 ### Sobre mim
 <div style="display: inline_block"  >
