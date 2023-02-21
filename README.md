@@ -3,8 +3,8 @@
 ### Sobre mim
 <div style="display: inline_block"  >
 <img align="right" style="border-radius:30px;width: 250px; height:250px;" src="https://avatars.githubusercontent.com/u/60048274?v=4" />
-<p> - 👨‍💻 Estágiario na Meta3 Services & Technologies. </p>
-<p> - 👨‍🎓 Estudante de Engenharia da computação, atualmente estou cursando o 5° semestre. </p>
+<p> - 👨‍💻 Analista de Sistemas na Meta3 Services & Technologies. </p>
+<p> - 👨‍🎓 Estudante de Engenharia de Software na FIAP</p>
 <p> - 🎯 Interesses: React, Javascript, Typescript, C#, HTML, CSS, SQL. </p>
 <p> - 🦊 Atualmente descobrindo minha paixão por front-end, adoro programar, ouvir música, assistir animações e Jogar. </p>
 <p> - 🎮 Gosta de jogar? É só chamar, vamos jogar juntos! </p>
