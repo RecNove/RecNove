@@ -2,7 +2,8 @@
 
 ### Sobre mim
 <div style="display: inline_block"  >
-<img align="right" style="border-radius:30px;width: 250px; height:250px;" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-4506461-3738664.png" />
+<img src="https://lanyard.kyrie25.me/api/257165295427256320?idleMessage=Provavelmente%20Trabalhando...&borderRadius=30px&imgStyle=square" align="right"/>
+  
 <p> - 👨‍💻 Analista de Sistemas na Meta3 Services & Technologies. </p>
 <p> - 👨‍🎓 Estudante de Engenharia de Software na FIAP</p>
 <p> - 🎯 Interesses: Desenvolvimento Web, focado mais para front-end </p>
@@ -76,20 +77,18 @@
 
 </p>
  
-<div> 
  
  ## Meus Commits :partying_face:
+<div align="center"> 
                                   
 ![Snake animation](https://github.com/AmorimMG/AmorimMG/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
  <div>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmorimMG&layout=compact&langs_count=7&theme=dracula"
-    />
-  </a>
+<!-- <div style="margin-left: 100px;display: flex;justify-content: center;">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e5jw225l5n5q5bd05d7dgn3ge&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=4eb1b0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+    <img width="400" align="right" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmorimMG&layout=compact&langs_count=7&theme=dracula" />
+</div> -->
  </div>
