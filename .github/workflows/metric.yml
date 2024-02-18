@@ -22,9 +22,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
           extras_css: |
-            h2 {
-              color: purple;
-            }
+            {{ lookup('file', 'custom_metrics.css') }}
           base_indepth: yes
           config_order: base.header, base_indepth, isocalendar, languages, people
           plugin_isocalendar: yes
@@ -47,9 +45,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           extras_css: |
-            h2 {
-              color: purple;
-            }
+            {{ lookup('file', 'custom_metrics.css') }}
           config_order: anilist, music, steam
           plugin_anilist: yes
           plugin_anilist_medias: anime, manga
