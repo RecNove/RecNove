@@ -21,8 +21,12 @@ jobs:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
+          extras_css: |
+            h2 {
+              color: purple;
+            }
           base_indepth: yes
-          config_order: base.header, base_indepth, isocalendar, languages
+          config_order: base.header, base_indepth, isocalendar, languages, people
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, scala, c, c++, python, ejs
@@ -31,6 +35,9 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_limit: 2
           plugin_isocalendar_duration: half-year
+          plugin_people: yes
+          plugin_people_types: followers
+
 
       - name: Media
         if: ${{ success() || failure() }}
@@ -39,6 +46,10 @@ jobs:
           filename: media.svg
           token: NOT_NEEDED
           base: ""
+          extras_css: |
+            h2 {
+              color: purple;
+            }
           config_order: anilist, music, steam
           plugin_anilist: yes
           plugin_anilist_medias: anime, manga
