@@ -22,42 +22,35 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
           base_indepth: yes
-          config_order: base.header, isocalendar, languages, notable, discussions, topics
+          config_order: base.header, base_indepth, isocalendar, languages
           plugin_isocalendar: yes
           plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, c++, python, ejs
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, scala, c, c++, python, ejs
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
           plugin_languages_limit: 2
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
-          plugin_notable: yes
-          plugin_discussions: yes
-          
-      - name: Last.fm  - Recently listed
+          plugin_isocalendar_duration: half-year
+
+      - name: Media
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: lastfm.svg
+          filename: media.svg
           token: NOT_NEEDED
           base: ""
+          config_order: anilist, music, steam
+          plugin_anilist: yes
+          plugin_anilist_medias: anime, manga
+          plugin_anilist_sections: favorites,characters
+          plugin_anilist_limit: 2
+          plugin_anilist_limit_characters: 20
+          plugin_anilist_user: RecNove
           plugin_music_token: ${{ secrets.LASTFM_TOKEN }}
           plugin_music: yes
           plugin_music_provider: lastfm
           plugin_music_user: RecNove
-
-      - name: Anilist
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: anilist.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_anilist: yes
-          plugin_anilist_medias: manga
-          plugin_anilist_sections: favorites,characters
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
-          plugin_anilist_user: RecNove
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "76561198066083877"
+          plugin_steam_sections: player, most-played
