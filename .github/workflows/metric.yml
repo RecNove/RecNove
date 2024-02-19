@@ -26,6 +26,9 @@ jobs:
             h1, h2, h3, h4, h5, h6, p, span, label, a { 
               color: #8100f7;
             }
+            b{
+              color: #76F700;
+            }
           base_indepth: yes
           config_order: base.header, base_indepth, metadata, header, activity, community, repositories, isocalendar, languages, people
           plugin_isocalendar: yes
@@ -51,6 +54,9 @@ jobs:
           extras_css: |
             h1, h2, h3, h4, h5, h6, p, span, label, a { 
               color: #8100f7;
+            }
+            b{
+              color: #76F700;
             }
           config_order: anilist, music, steam
           plugin_anilist: yes
