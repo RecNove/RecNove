@@ -23,7 +23,9 @@ jobs:
           base: header
           config_timezone: America/Sao_Paulo
           extras_css: |
-            {{ lookup('file', 'custom_metrics.css') }}
+            h2 { 
+              color: #8100f7;
+            }
           base_indepth: yes
           config_order: base.header, base_indepth, metadata, header, activity, community, repositories, isocalendar, languages, people
           plugin_isocalendar: yes
@@ -47,7 +49,9 @@ jobs:
           base: ""
           config_timezone: America/Sao_Paulo
           extras_css: |
-            {{ lookup('file', 'custom_metrics.css') }}
+            h2 { 
+              color: #8100f7;
+            }
           config_order: anilist, music, steam
           plugin_anilist: yes
           plugin_anilist_medias: anime, manga
