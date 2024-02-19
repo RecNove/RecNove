@@ -46,7 +46,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           config_timezone: America/Sao_Paulo
-          xtras_css: |
+          extras_css: |
             {{ lookup('file', 'custom_metrics.css') }}
           config_order: anilist, music, steam
           plugin_anilist: yes
