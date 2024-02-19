@@ -23,7 +23,7 @@ jobs:
           base: header
           config_timezone: America/Sao_Paulo
           extras_css: |
-            h1, h2, h3, h4, h5, h6, p, span { 
+            h1, h2, h3, h4, h5, h6, p, span, label, a { 
               color: #8100f7;
             }
           base_indepth: yes
@@ -49,7 +49,7 @@ jobs:
           base: ""
           config_timezone: America/Sao_Paulo
           extras_css: |
-            h1, h2, h3, h4, h5, h6, p, span { 
+            h1, h2, h3, h4, h5, h6, p, span, label, a { 
               color: #8100f7;
             }
           config_order: anilist, music, steam
