@@ -43,5 +43,5 @@
 
  ## Commits :partying_face:
 <div align="center"> 
-        <img width="580" alt="🦑" src="https://github.com/AmorimMG/AmorimMG/blob/output/github-contribution-grid-snake.svg" align="left"/>
+        <img width="450" alt="🦑" src="https://github.com/AmorimMG/AmorimMG/blob/output/github-contribution-grid-snake.svg" align="left"/>
 </p>
