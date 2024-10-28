@@ -16,8 +16,8 @@
  
 <div style="display: flex; justify-content: space-between;">
     <div style="display: flex;">
-        <img alt="🦑" src="./general.svg">
-        <img alt="🦑" src="./media.svg" align="right"/>
+        <img width="40%" alt="🦑" src="./general.svg">
+        <img width="40%" alt="🦑" src="./media.svg" align="right"/>
     </div>
 </div>
 
