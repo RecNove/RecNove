@@ -7,8 +7,8 @@
   
 <p> - 👨‍💻 Systems Analyst at Meta3 Services & Technologies. </p>
 <p> - 👨‍🎓 Software Engineering Student at FIAP</p>
-<p> - 🎯 Interests: Web development, focused more on front-end </p>
-<p> - 🦊 I love developing personal projects, I'm addicted to music and I play a lot of FPS games</p>
+<p> - 🎯 Interests: Full Cycle Development </p>
+<p> - 🦊 I love developing personal projects, I'm addicted to music and I play a little FPS games</p>
   
 </div>
 
