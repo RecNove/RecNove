@@ -7,7 +7,7 @@
   
 <p> - 👨‍💻 Systems Analyst at Meta3 Services & Technologies. </p>
 <p> - 👨‍🎓 Software Engineering Student at FIAP</p>
-<p> - 🎯 Interests: Full Cycle Development </p>
+<p> - 🎯 Interests: Full Stack Development </p>
 <p> - 🦊 I love developing personal projects, I'm addicted to music and I play a little FPS games</p>
   
 </div>
